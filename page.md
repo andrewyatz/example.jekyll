@@ -5,4 +5,4 @@ permalink: /page/
 ---
 
 # Page
-This is *a markdown page*
+This is *a markdown page*. No really it is a markdown page
